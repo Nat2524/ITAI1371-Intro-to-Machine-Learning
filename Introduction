@@ -1,0 +1,13 @@
+This repository contains materials, assignments, and projects for ITAI1371 – Introduction to Machine Learning. 
+The course focuses on the fundamental concepts, algorithms, and applications of machine learning, 
+providing with both theoretical understanding and practical experience.
+
+Machine learning is a subfield of artificial intelligence that enables computers to learn from data 
+and improve our performance over time without being explicitly programmed. 
+Through this course, I will explore key topics such as supervised and unsupervised learning, model evaluation, feature selection, and neural networks.
+
+The repository includes:
+* Lecture notes and reference materials
+* Example code implementations in Python
+* Homework assignments and project submissions
+* Datasets used for analysis and experimentation
