@@ -1,4 +1,20 @@
-This lab notebook is a guided exercise to help me to learn the core concepts and workflow of machine learning,
-practice building models, and understand how to evaluate and interpret their results using Python in Google Colab
-The lab focuses on understanding the machine learning workflow and the different types of learning methodsused in ML.
-It appears to be part of a course where previous modules introduced Python, data operations, and visualization.
+This lab notebook is a guided exercise designed to help me learn the core concepts and workflow of machine learning, practice building models, 
+and understand how to evaluate and interpret results using Python in Google Colab.
+The lab focuses on understanding the machine learning workflow and the different types of learning methodsused in ML. 
+It appears to be part of a course where earlier modules introduced Python programming, data operations, and data visualization.
+
+Learning Objectives
+By the end of this lab, I will be able to:
+* Distinguish between types of learning:
+    * Supervised Learning:Models trained on labeled data (e.g., predicting house prices).
+    * Unsupervised Learning:Models trained on unlabeled data to find patterns (e.g., clustering customers).
+    * Reinforcement Learning:Models that learn through trial and error using rewards and penalties (e.g., training a robot to walk).
+* Understand the complete machine learning workflow, which typically includes:
+    * Data collection and preprocessing
+    * Model selection and training
+    * Model evaluation
+    * Insights and deployment
+* Build and evaluate a classification model, using Python libraries such as scikit-learn.
+* Work with different types of data, including numerical, categorical, text, and image data.
+* Apply the end-to-end machine learning process, moving from data → model → evaluation → insights.
+
